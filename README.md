@@ -2,4 +2,4 @@
 about QMTT protocol using in Iot
 
 
-There are some codes about QMTT using C++ and QT
+There are some codes about QMTT using C++ and QT  and some documents about QMTT
